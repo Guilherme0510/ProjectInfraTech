@@ -255,6 +255,7 @@ nav li:hover {
     background-color: #05044f;
     color: #cdcdcd;
     transition: 0.8s;
+    text-decoration: none;
 }
 
 #slideshow-container {
